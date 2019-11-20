@@ -210,3 +210,5 @@ export const Owner = styled.header`
 ```
 
 Neste ponto temos a aplicação já com a proposta funcionando.
+
+o Próximo passo é listar as ISSUES.
