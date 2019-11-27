@@ -14,6 +14,7 @@ export default class Main extends Component {
     repositories: [],
     loading: false,
     err: false,
+    initialPage: 1,
   };
 
   // Carregar os Dados do localStorage
